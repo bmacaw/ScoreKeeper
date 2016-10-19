@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Scorekeeper</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="resetButtonText">Reset</string>
+    <string name="nameTeamA">Team A</string>
+    <string name="nameTeamB">Team B</string>
+    <string name="onePat">1 PAT</string>
+    <string name="twoPat">2 PAT</string>
+    <string name="fieldGoal">Field Goal</string>
+    <string name="safety">Safety</string>
+</resources>
